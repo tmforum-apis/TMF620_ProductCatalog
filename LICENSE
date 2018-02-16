@@ -175,7 +175,7 @@
 
    END OF TERMS AND CONDITIONS
 
-   APPENDIX: How to apply the Apache License to your work.
+   APPENDIX: How to apply the Apache License to your TM Forum work.
 
       To apply the Apache License to your work, attach the following
       boilerplate notice, with the fields enclosed by brackets "[]"
@@ -186,7 +186,11 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+Copyright © [copyright year] TM Forum. The TM Forum API Deliverables
+contained herein were contributed to the TM Forum by an Apache 2.0 License
+Mode Team and are subject to an Apache 2.0 License Mode Copyright Notice.
+No IPR was declared in the development of RAND License Mode TM Forum
+deliverables related to this TM Forum API Deliverable.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
