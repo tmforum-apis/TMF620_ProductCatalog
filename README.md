@@ -1,5 +1,5 @@
 # TMF620_ProductCatalog
-TM Forum Open APIs (Apache 2.0) Product Catalog AIP
+TM Forum Open APIs (Apache 2.0) Product Catalog API
 
 Provides a standardized solution for rapidly adding partners’ products to an existing Catalog. It brings the
 capability for Service Providers to directly feed partners systems with the technical description of the products
