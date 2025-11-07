@@ -1,0 +1,13 @@
+name: API release
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  call-api-release-workflow:
+    uses: tmforum-apis/tmf-api-commons/.github/workflows/release-api.yml@main
+    with:
+      api_name: TMF620
